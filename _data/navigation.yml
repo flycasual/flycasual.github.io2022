@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Meet us"
+    url: /about/
+  - title: "Book us"
+    url: /about/
+  - title: "Upcoming gigs"
+    url: /about/
+  - title: "Media"
+    url: /about/
   - title: "About"
     url: /about/
