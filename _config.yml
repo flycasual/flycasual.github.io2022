@@ -60,30 +60,33 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "80’s & 90’s & 2000’s band in La Crosse"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://flycasual.band"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/fly_casual_band"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "mailto:bookflycasual@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/FlyCasualLaCrosse"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/fly_casual_band"
-
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fly_casual_band"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://flycasual.band"
+
+footer:
+  links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/FlyCasualLaCrosse"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/fly_casual_band"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fly_casual_band"
 
 defaults:
   # _posts
