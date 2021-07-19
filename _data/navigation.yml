@@ -1,15 +1,15 @@
 main:
-  - title: "Meet us"
-    url: /about/
+  - title: "Contact us"
+    url: /contact/
   - title: "Upcoming gigs"
     url: /about/
   - title: "Media"
     url: /about/
+  - title: "Meet us"
+    url: /about/
   - title: "Mailing list"
     url: /about/
   - title: "Book us"
-    url: /about/
-  - title: "Contact"
     url: /about/
   - title: "About"
     url: /about/
