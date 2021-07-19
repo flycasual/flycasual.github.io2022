@@ -79,7 +79,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:bookflycasual@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
