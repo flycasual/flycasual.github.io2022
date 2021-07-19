@@ -2,14 +2,14 @@ main:
   - title: "Contact us"
     url: /contact/
   - title: "Upcoming gigs"
-    url: /about/
+    url: /upcoming/
   - title: "Media"
-    url: /about/
+    url: /media/
   - title: "Meet us"
-    url: /about/
+    url: /meetus/
   - title: "Mailing list"
-    url: /about/
+    url: /mailinglist/
   - title: "Book us"
-    url: /about/
+    url: /book/
   - title: "About"
     url: /about/
