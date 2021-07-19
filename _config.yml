@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Fly Casual"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/fly-casual-plane-only-square.png"
   bio    : "80’s & 90’s & 2000’s band in La Crosse"
   links:
     - label: "Email"
